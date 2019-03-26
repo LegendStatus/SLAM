@@ -1,2 +1,3 @@
 # SLAM
-Simulatenious localization and mapping implementation
+
+visual SLAM implemenataion via EKD predict and update
