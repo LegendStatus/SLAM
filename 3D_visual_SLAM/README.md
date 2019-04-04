@@ -2,6 +2,7 @@
 
 Using accelormeter, gyroscope data and stereo camrea data collected by [KITTI](http://www.cvlibs.net/datasets/kitti/) to recover the trajectory of the vehicles at each time step and obtained its landmark map based on a `Extended Kalman Filter` model.<br>
 
+![](/3D_visual_SLAM/data/0027_Moment.jpg)
 
 There are total three implementation: <br>
 1. Localization via EKF predict<br>
