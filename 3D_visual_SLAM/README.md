@@ -8,5 +8,5 @@ There are total three implementation: <br>
 2. Mapping via EKF update<br>
 3. visual SLAM vis EKF predict and update
 
-![] (/3D_visual_SLAM/Results/mapping_27.png)
+![](/3D_visual_SLAM/Results/mapping_27.png)
 
