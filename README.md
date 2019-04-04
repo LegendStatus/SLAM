@@ -1,7 +1,7 @@
 # SLAM Implementation
 
-This project tends to implement basic estmiation theory to approach the solution of Simulatenious localization and mapping（SLAM）problem.<br>
+This project tends to implement basic estmiation theory and machine learning techniques to approach the solution of Simulatenious localization and mapping（SLAM）problem.<br>
 There are total three parts:<br>
-1. [Color Segmentation](https://github.com/LegendStatus/SLAM/Color Segmentation) <br>
-2. [Occupied Grid Map SLAM](https://github.com/LegendStatus/SLAM/2D grid map) <br>
-3. [visual SLAM] (https://github.com/LegendStatus/SLAM/3D) <br>
+1. [Color Segmentation](/Color_Segmentation) <br>
+2. [Occupied Grid Map SLAM](/2D_grid_map) <br>
+3. [visual SLAM](/3D_visual_SLAM) <br>
